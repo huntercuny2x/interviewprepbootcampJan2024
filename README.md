@@ -2,7 +2,7 @@
 
 Class Days and Class Times: Monday to Friday, 10:00 AM to 12:00 PM  
 
-Dates: January 2nd, 2024 (Monday) to January 22nd, 2024 (Monday)    
+Dates: January 2nd, 2024 (Tuesday) to January 22nd, 2024 (Monday)    
 
 Lead Instructor: Jaime Canizales 
 
@@ -57,6 +57,7 @@ that far. Whether it runs or not, just submit what you have.
 01/02 (Tues):
 * Topics of the day: Introduction, Maps
 * Course logistics: * Interview prep slides: [Proactive Communication](https://drive.google.com/open?id=1JnOmY-O1lBDT_lRfCodLAURgY_2tEc9i1cRzqhba_-E) and [Algorithm Design](https://drive.google.com/open?id=1tC0INmICkZ68ODaRQL92oFkV04XIp2_1K68Ow7W8Nl4)
+* Problems covered: [Contains Duplicates](https://leetcode.com/problems/contains-duplicate/)
 
 *Homework: Leetcode [Valid Anagrams](https://leetcode.com/problems/valid-anagram/), Please join discord server, and add your newly forked github link to the spreadsheet*
 
