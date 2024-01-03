@@ -69,7 +69,7 @@ that far. Whether it runs or not, just submit what you have.
 * Additional readings: [Hash Table Reading](https://leetcode.com/explore/learn/card/hash-table/)
 * Recordings: https://youtu.be/-q2l7qY0Qo0, https://youtu.be/h7OtJkKBq40
 
-*Homework: Leetcode [Group Anagrams](https://leetcode.com/problems/group-anagrams/), read additional readings on hash tables, please complete preassessment test if you have not done so [](https://hr.gs/hunterjan24technical)*
+*Homework: Leetcode [Group Anagrams](https://leetcode.com/problems/group-anagrams/), read additional readings on hash tables, please complete preassessment test if you have not done so [preassessment](https://hr.gs/hunterjan24technical)*
 
 01/04 (Thurs):
 * Topics of the day: Maps, Two Pointers
