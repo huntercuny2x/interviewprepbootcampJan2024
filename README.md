@@ -58,7 +58,7 @@ that far. Whether it runs or not, just submit what you have.
 * Topics of the day: Introduction, Maps
 * Course logistics: * Interview prep slides: [Proactive Communication](https://drive.google.com/open?id=1JnOmY-O1lBDT_lRfCodLAURgY_2tEc9i1cRzqhba_-E) and [Algorithm Design](https://drive.google.com/open?id=1tC0INmICkZ68ODaRQL92oFkV04XIp2_1K68Ow7W8Nl4)
 * Problems covered: [Contains Duplicates](https://leetcode.com/problems/contains-duplicate/)
-* Recordings:
+* Recordings: https://youtu.be/biChzycEpPA
 
 *Homework: Leetcode [Valid Anagrams](https://leetcode.com/problems/valid-anagram/), Please join discord server, and add your newly forked github link to the spreadsheet(both links are available above)*
 
@@ -66,7 +66,7 @@ that far. Whether it runs or not, just submit what you have.
 01/03 (Wed):
 * Topics of the day: Big O, Maps
 * Problems covered: [Two Sum](https://leetcode.com/problems/two-sum/)
-* Recordings:
+* Recordings: https://youtu.be/-q2l7qY0Qo0, https://youtu.be/h7OtJkKBq40
 
 *Homework: Leetcode [Group Anagrams](https://leetcode.com/problems/group-anagrams/)*
 
