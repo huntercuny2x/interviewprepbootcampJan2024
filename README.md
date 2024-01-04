@@ -75,7 +75,7 @@ that far. Whether it runs or not, just submit what you have.
 01/04 (Thurs):
 * Topics of the day: Maps, Two Pointers
 * Problems covered: [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-* Recordings:
+* Recordings: https://youtu.be/7vnX1Ztn6Xw
 
 *Homework: Leetcode [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)*
 
