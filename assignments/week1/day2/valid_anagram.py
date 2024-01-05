@@ -1,3 +1,7 @@
+def isAnagramSort(s, t):
+    return sorted(s)==sorted(t)
+
+
 def isAnagramMap(s, t):
     if len(s) != len(t):
         return False
