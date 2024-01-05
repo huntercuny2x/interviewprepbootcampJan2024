@@ -8,6 +8,7 @@ Lead Instructor: Jaime Canizales
 
 Email: jaime.canizales@hunter.cuny.edu 
 
+* [zoom link](https://us02web.zoom.us/j/83114876026?pwd=cnhhN2o2S25CKzFUeWtUYWE1NUY5QT09)
 
 Discord Server:  https://discord.gg/PKxpuPS6
 
@@ -81,8 +82,16 @@ that far. Whether it runs or not, just submit what you have.
 
 
 01/05 (Fri):
-* Topics of the day: Two Pointers, Sliding Window
-* Problems covered: [Three Sum](https://leetcode.com/problems/3sum/), [Water Container](https://leetcode.com/problems/container-with-most-water/), [Buy Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-* Recordings:
+* Topics of the day: Two Pointers
+* Problems covered: [Water Container](https://leetcode.com/problems/container-with-most-water/) 
+* Recordings https://youtu.be/V0DMi_ErcEs:
+
+*Homework: Leetcode [Three Sum](https://leetcode.com/problems/3sum/), [Buy Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)*
+
+
+01/08 (Mon):
+* Topics of the day: Sliding Window
+* Problems covered: [longest substring witout repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/), [longest repeating character replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+* Recordings: 
 
 *Homework: Leetcode *
