@@ -98,9 +98,16 @@ that far. Whether it runs or not, just submit what you have.
 
 01/09 (Tues)(week2-day2):
 * Topics of the day: Linked Lists
-* Problems covered: [merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/), [remove nth node from end](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+* Problems covered: [merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+* Recordings: https://youtu.be/hF3JuHQxPZU
+
+*Homework: Leetcode [remove nth node from end](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)*
+
+01/10 (Wed)(week2-day3):
+* Topics of the day: Linked Lists, Binary Search, Trees
+* Problems covered: [Binary Search](https://leetcode.com/problems/binary-search/),[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 * Recordings: 
 
-*Homework: Leetcode *
+*Homework: Leetcode []()*
 
 
