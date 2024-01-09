@@ -1,1 +1,0 @@
-1. In main directory create a folder called class homework, students put all their own code here and can more easily sync the fork now. 
