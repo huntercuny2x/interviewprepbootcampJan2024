@@ -104,10 +104,15 @@ that far. Whether it runs or not, just submit what you have.
 *Homework: Leetcode [remove nth node from end](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)*
 
 01/10 (Wed)(week2-day3):
-* Topics of the day: Linked Lists, Binary Search, Trees
-* Problems covered: [Binary Search](https://leetcode.com/problems/binary-search/),[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+* Topics of the day: Linked Lists, Binary Search, Stacks, Trees
+* Problems covered: [Binary Search](https://leetcode.com/problems/binary-search/),[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/), [Stack](https://leetcode.com/problems/valid-parentheses/)
+* Recordings: https://youtu.be/4vphNX0hOgg
+
+*Homework: Leetcode [maximum depth of binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1119121215/) Hint-Stack*
+
+01/11 (Thurs)(week2-day4):
+* Topics of the day: Trees, Binary Search Trees
+* Problems covered: [binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/),[validate BST](https://leetcode.com/problems/validate-binary-search-tree/description/)
 * Recordings: 
 
 *Homework: Leetcode []()*
-
-
