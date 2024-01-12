@@ -115,4 +115,11 @@ that far. Whether it runs or not, just submit what you have.
 * Problems covered: [binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/),[validate BST](https://leetcode.com/problems/validate-binary-search-tree/description/)
 * Recordings: 
 
+*Homework: Leetcode [kth smallest element bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)*
+
+01/12 (Fri)(week2-day5):
+* Topics of the day: 
+* Problems covered: [implement trie](https://leetcode.com/problems/implement-trie-prefix-tree/description/),[add and search tries](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)
+* Recordings: https://youtu.be/3F58OjAEGT0
+
 *Homework: Leetcode []()*
