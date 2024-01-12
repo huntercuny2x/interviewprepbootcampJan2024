@@ -113,13 +113,21 @@ that far. Whether it runs or not, just submit what you have.
 01/11 (Thurs)(week2-day4):
 * Topics of the day: Trees, Binary Search Trees
 * Problems covered: [binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/),[validate BST](https://leetcode.com/problems/validate-binary-search-tree/description/)
-* Recordings: 
+* Recordings: https://youtu.be/3F58OjAEGT0
 
 *Homework: Leetcode [kth smallest element bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)*
 
 01/12 (Fri)(week2-day5):
-* Topics of the day: 
-* Problems covered: [implement trie](https://leetcode.com/problems/implement-trie-prefix-tree/description/),[add and search tries](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)
-* Recordings: https://youtu.be/3F58OjAEGT0
+* Topics of the day: BST, Tries
+* Problems covered: [implement trie](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
+* Recordings: https://youtu.be/QAMyFvpRk7E
 
-*Homework: Leetcode []()*
+*Homework: [add and search tries](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/), [Kth largest element in array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)*
+
+
+01/16 (Tues)(week3-day1):
+* Topics of the day: Tries, Heaps
+* Problems covered: [k closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
+* Recordings: 
+
+*Homework: []()*
