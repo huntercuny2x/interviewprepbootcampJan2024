@@ -128,7 +128,7 @@ that far. Whether it runs or not, just submit what you have.
 
 01/16 (Tues)(week3-day1):
 * Topics of the day: Tries, Heaps
-* Problems covered: [k closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
+* Problems covered: [last stone weight](https://leetcode.com/problems/last-stone-weight/), [k closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 * Recordings: 
 
 *Homework: []()*
