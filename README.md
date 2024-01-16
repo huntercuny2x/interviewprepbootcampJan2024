@@ -127,8 +127,16 @@ that far. Whether it runs or not, just submit what you have.
 
 
 01/16 (Tues)(week3-day1):
-* Topics of the day: Tries, Heaps
-* Problems covered: [k closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
+* Topics of the day: Heaps
+* Problems covered: [last stone weight](https://leetcode.com/problems/last-stone-weight/), [k closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
+* Recordings: https://youtu.be/HiWX80SohWw
+
+*Homework: [all subsets](https://leetcode.com/problems/subsets/description/)*
+
+
+01/17 (Wed)(week3-day2):
+* Topics of the day: Backtracking
+* Problems covered: [all subsets 2](https://leetcode.com/problems/subsets-ii/description/), [letter combinations of phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
 * Recordings: 
 
 *Homework: []()*
