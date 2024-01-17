@@ -137,6 +137,20 @@ that far. Whether it runs or not, just submit what you have.
 01/17 (Wed)(week3-day2):
 * Topics of the day: Backtracking
 * Problems covered: [all subsets 2](https://leetcode.com/problems/subsets-ii/description/), [letter combinations of phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
+* Recordings: https://youtu.be/Ebraz3URP1o
+
+*Homework: [# of islands](https://leetcode.com/problems/number-of-islands/description/)*
+
+01/18 (Thurs)(week3-day3):
+* Topics of the day: Graphs
+* Problems covered: [clone graph](https://leetcode.com/problems/clone-graph/description/), [course schedule](https://leetcode.com/problems/course-schedule/description/)
+* Recordings: 
+
+*Homework: []()*
+
+01/19 (Fri)(week3-day4):
+* Topics of the day: Dynamic Programming
+* Problems covered: [](), []()
 * Recordings: 
 
 *Homework: []()*
