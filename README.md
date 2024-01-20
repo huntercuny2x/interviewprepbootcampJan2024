@@ -159,5 +159,3 @@ that far. Whether it runs or not, just submit what you have.
 * Topics of the day: 
 * Problems covered: 
 * Recordings: 
-
-*Homework: [coin change](https://leetcode.com/problems/coin-change/description/)*
